@@ -1,0 +1,19 @@
+name: snp_array
+channels:
+  - conda-forge
+  - r
+  - dnachun
+  - seqera
+  - defaults
+  - bioconda
+dependencies:
+  - mamba
+  - r-base
+  - r-data.table
+  - r-tidyverse
+  - parallel
+  - openjdk
+  - plink=1.90
+  - bcftools
+  - conda-forge::jupyterlab
+prefix: /home/jacky/miniconda3/envs/snp_array
