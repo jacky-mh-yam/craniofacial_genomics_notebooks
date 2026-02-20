@@ -1,6 +1,6 @@
 # Integrative multiomic analysis of single-nucleotide variants identifies candidate genes for human craniofacial malformation
 
-This repostiroy contains code for reproducing the results and figures of our manuscript.
+This repostiroy contains code for reproducing the results and figures of our study.
 
 The preprint version of this work can be accessed through bioRxiv (DOI: [10.64898/2025.12.29.696805](https://doi.org/10.64898/2025.12.29.696805))
 
